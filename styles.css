@@ -76,7 +76,7 @@ color:white;
   font-family:arial;
   color:white;
   font-size:20px;
-  margin:;
+  margin:10px
 }
 #number{
   width: 100%;
@@ -130,7 +130,8 @@ border-radius:50px;
   margin-top:15px;
 }
 input[type='submit'] :hover{
-shadow:0 50px 0 50px black;
+box-shadow:0 50px 0 50px black;
+
 }
 
 #textarea{
